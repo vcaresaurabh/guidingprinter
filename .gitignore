@@ -31,3 +31,7 @@ Thumbs.db
 .idea/
 *.suo
 *.user
+
+# Deployment / dev utility scripts
+deploy.py
+verify.py
